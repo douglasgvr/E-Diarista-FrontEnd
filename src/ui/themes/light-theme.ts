@@ -41,7 +41,7 @@ const theme = createTheme({
     fontFamily: "Poppins, Roboto, sans-serif",
   },
   shape: {
-    borderRadius: "3px",
+    borderRadius: 1,
   },
 });
 

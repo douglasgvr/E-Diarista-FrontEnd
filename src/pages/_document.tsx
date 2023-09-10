@@ -30,7 +30,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
           <link
-            href="/fontes/tw-icons/css/treinaweb-icons.css"
+            href="/fonts/tw-icons/css/treinaweb-icons.css"
             rel="stylesheet"
           />
           {(this.props as any).emotionStyleTags}

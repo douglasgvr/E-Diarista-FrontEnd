@@ -8,3 +8,5 @@ export const GradientBackground = styled("section")`
 
   color: ${({ theme }) => theme.palette.primary.contrastText};
 `;
+
+export const Sectiontitle = styled("h2")``;

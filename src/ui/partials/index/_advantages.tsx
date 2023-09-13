@@ -1,11 +1,11 @@
 import { Container } from "@mui/material";
-import { GradientBackground, Sectiontitle } from "./_advantages.styled";
+import { GradientBackground, SectionTitle } from "./_advantages.styled";
 
 const Advantages = () => {
   return (
     <GradientBackground>
       <Container>
-        <Sectiontitle>Por que usar o E-Diarista</Sectiontitle>
+        <SectionTitle>Por que usar o E-Diarista</SectionTitle>
       </Container>
     </GradientBackground>
   );
